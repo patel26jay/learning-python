@@ -11,5 +11,5 @@ def isValidPwd(pwd):
   else:
     return False
 
-print isValidPwd('Vmadlay091')
+print isValidPwd('Password123')
 
