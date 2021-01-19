@@ -19,4 +19,4 @@ inv = addToInventory(inv, dragonLoot)
 displayInventory(inv)
 
 #stuff = {'rope': 1, 'torch': 6, 'gold coin': 42, 'dagger': 1, 'arrow': 12}
-#displayInventory(stuff)
+#displayInventory(stuf)
